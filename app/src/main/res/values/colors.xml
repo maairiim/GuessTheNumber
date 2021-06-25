@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="navyblue">#211D50</color>
+    <color name="darkblue">#18173A</color>
+    <color name="mustard">#F0C851</color>
+    <color name="orange">#E79E12</color>
+    <color name="white">#FFFFFF</color>
+    <color name="teal_700">#ff018786</color>
+
+</resources>
